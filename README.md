@@ -1,1 +1,1 @@
-# Day-4-JS-Assignment
+# Day-3-Functions-JS-Assignment
